@@ -1,6 +1,6 @@
 {
     "name": "@liangshen/alfred-webstorm",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Alfred workflow for WebStorm",
     "main": "dist/index.js",
     "type": "module",
