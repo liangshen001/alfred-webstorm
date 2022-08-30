@@ -14,7 +14,7 @@
     "author": "Wang Liang <850598163@qq.com>",
     "license": "ISC",
     "dependencies": {
-        "@liangshen/alfred": "1.1.20",
+        "@liangshen/alfred": "^1.1.20",
         "@liangshen/jetbrains": "^1.0.5"
     },
     "devDependencies": {
