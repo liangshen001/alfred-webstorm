@@ -7,8 +7,9 @@
     "scripts": {
         "build": "tsc"
     },
-    "keywords": [],
-    "author": "",
+    "repository": "liangshen001/alfred-webstorm",
+    "keywords": ["webstorm"],
+    "author": "Wang Liang <850598163@qq.com>",
     "license": "ISC",
     "dependencies": {
         "@liangshen/alfred": "1.1.20",
